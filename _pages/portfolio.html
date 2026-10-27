@@ -5,10 +5,12 @@ permalink: /portfolio/
 author_profile: true
 ---
 
+My research focuses on developing machine learning models for predicting genetic interactions in cancer biology, with applications in precision medicine and drug target identification.
+
 {% include base_path %}
 
-
-{% for post in site.portfolio %}
+{% assign sorted_portfolio = site.portfolio | sort: 'date' | reverse %}
+{% for post in sorted_portfolio %}
   {% include archive-single.html %}
 {% endfor %}
 
