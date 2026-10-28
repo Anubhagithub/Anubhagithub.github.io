@@ -33,4 +33,3 @@ List of Publications
 - **Kondapally, M., Dey, A., Golagana, H., Kiran, S., Kiran, M.** (2024). "Deubiquitinases as prognostic biomarkers and potential drug targets for gynecological cancers." *International Journal of Clinical Oncology*. [Journal Link](https://link.springer.com/)
 
 - **Jindal, H., Dey, A., Teja, P., Mudunuri, S., Kiran, M.** (2024). "CHOLAR: Characterization of LncRNA from raw reads." *F1000Research*. [F1000](https://f1000research.com/)
-
