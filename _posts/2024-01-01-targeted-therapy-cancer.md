@@ -1,6 +1,6 @@
 ---
 title: 'Targeted Therapy in Cancer: How Machine Learning is Helping Us Fight Smarter'
-date: 2024-01-01
+date: 2024-08-26
 permalink: /posts/2024/01/targeted-therapy-cancer/
 tags:
   - cancer
