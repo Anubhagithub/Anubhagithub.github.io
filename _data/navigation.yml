@@ -17,8 +17,8 @@ main:
   - title: "Awards"
     url: /awards/  
 
-    - title: "Achievements"
-    url: /achievements/
+  - title: "Achievements"
+      url: /achievements/
     
   - title: "Research"
     url: /portfolio/
