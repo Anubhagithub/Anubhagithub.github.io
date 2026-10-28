@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Computational Biologist at the Koita Centre for Digital Health, Indian Institute of Technology Bombay. My research focuses on genetic and drug perturbation to study transcritional responses. 
+I am a Institute Post Doctoral Fellow at the Koita Centre for Digital Health, Indian Institute of Technology Bombay. My research focuses on genetic and drug perturbation to study transcritional responses. 
 
 PhD in Systems & Computational Biology | Expertise in Machine Learning, Cancer Genomics, & Network Biology | M.Tech Computational Biology | B.Tech Computer Science
 
