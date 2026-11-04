@@ -8,9 +8,9 @@ redirect_from:
 ---
 I am an Institute Post Doctoral Fellow at the Koita Centre for Digital Health, Indian Institute of Technology Bombay. My research focuses on genetic and drug perturbation to study transcritional responses. 
 
-PhD in Systems & Computational Biology | Expertise in Machine Learning, Cancer Genomics, & Network Biology | M.Tech Computational Biology | B.Tech Computer Science
+PhD in Systems & Computational Biology | Exposure to Machine Learning, Cancer Genomics, & Network Biology | M.Tech Computational Biology | B.Tech Computer Science
 
-I am a computational biologist with a strong foundation in computer science and expertise in applying machine learning to complex biological systems. My research spans cancer genomics, network-based analysis, and integrative multi-omics, with a focus on translating large-scale biological data into actionable insights.
+I am a computational biologist with a strong foundation in computer science and expertise in applying classical  machine learning models to complex biological systems. My research spans cancer genomics, network-based analysis, and integrative multi-omics, with a focus on translating large-scale biological data into actionable insights.
 
 With a PhD in Systems and Computational Biology, I bring a multidisciplinary approach to solving biomedical problems leveraging algorithms, data science, and biological knowledge to uncover mechanisms of disease and therapeutic opportunities.
 
